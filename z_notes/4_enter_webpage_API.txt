@@ -1,0 +1,6 @@
+# entre a la webpage de la api
+https://www.omdbapi.com/
+
+#genere un api key, si la exige
+example:d3efc5a
+https://www.omdbapi.com/?apikey=d3efc5a&s=Avengers

@@ -1,0 +1,2 @@
+#console ninja
+https://github.com/wallabyjs/console-ninja/blob/main/README.md
