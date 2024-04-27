@@ -58,7 +58,7 @@ function App () {
   const handleSort = () => {
     setSort(!sort)
   }
-
+  // se esta haciendo la busqueda cada vez que se escribe en el input
   const handleChange = (event) => {
     const newSearch = event.target.value
     updateSearch(newSearch)
